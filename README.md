@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tufael khan</h1>
-<p align="left"> <img src="https://avatars.githubusercontent.com/u/121821003?v=4" alt="tufaelkhan" /> </p>
+<img src="https://avatars.githubusercontent.com/u/121821003?v=4" alt="tufaelkhan" /> 
 <h3 align="center">A passionate Full-Stack developer from Bangladesh.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tufaelkhan&label=Profile%20views&color=0e75b6&style=flat" alt="tufaelkhan" /> </p>
