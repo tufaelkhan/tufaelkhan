@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tufael khan</h1>
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=tufaelkhan&label=Profile%20views&color=0e75b6&style=flat" alt="tufaelkhan](https://media.licdn.com/dms/image/D5603AQGlE1-Q2_hIpg/profile-displayphoto-shrink_100_100/0/1687348420989?e=1698278400&v=beta&t=JCbz1iqkDNTsgB00wdL1IsUzl4smqWWmD5DhHQdopxc)" /> </p>
+
 <h3 align="center">A passionate Full-Stack developer from Bangladesh.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tufaelkhan&label=Profile%20views&color=0e75b6&style=flat" alt="tufaelkhan" /> </p>
