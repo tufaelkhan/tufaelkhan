@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **hungry bunny**
 
-- 👨‍💻 All of my projects are available at [https://65324fda185e4f0d2e4a6e25--tiny-sprinkles-77cc94.netlify.app](https://65324fda185e4f0d2e4a6e25--tiny-sprinkles-77cc94.netlify.app)
+- 👨‍💻 All of my projects are available at [https://65324fda185e4f0d2e4a6e25--tiny-sprinkles-77cc94.netlify.app](prorfolio)
 
 - 📝 I regularly write articles on [https://medium.com/@tufaelkhan247/redux-beginner-to-advance-concept-what-do-you-know-as-needed-for-a-frontend-developer-a7301719f63b](https://medium.com/@tufaelkhan247/redux-beginner-to-advance-concept-what-do-you-know-as-needed-for-a-frontend-developer-a7301719f63b)
 
