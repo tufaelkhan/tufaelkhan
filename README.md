@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **tufaelkhan247@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1bN9yzS5sEmmDauhKYK_PSybiDZvZbFFC/view?usp=sharing](Resume)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1bN9yzS5sEmmDauhKYK_PSybiDZvZbFFC/view?usp=sharing)
 
 - ⚡ Fun fact **I hobby is reading book, learn new technology, tree plantation**
 
